@@ -1,0 +1,24 @@
+step 1:This is data set for investment ,
+       Return Amount,Profit,Loss in last 6 years
+
+step 2:Analysis for 
+             *Investment Average
+             *Return Amount Average
+             *Profit average
+             *Loss Average
+
+step 3:MARKOV CHAIN MODEL:
+       A Markov chain is "a stochastic model
+       describing a sequence of possible events 
+       in which the probability of each event
+       depends only on the state attained in
+       the previous event"
+
+step 4:Graphical analysis for Investment Average
+
+step 5:Graphical analysis for Return Amount Average
+
+step 6:Graphical analysis for Profit Average
+
+step 7:Graphical analysis for Loss Average
+				
